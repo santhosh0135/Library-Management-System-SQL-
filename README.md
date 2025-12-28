@@ -13,7 +13,7 @@ Perform efficient data retrieval using SQL queries
 -- Tech Used
 Database: MySQL
 Language: SQL
-Tools: MySQL Workbench
+-- Tools: MySQL Workbench
 
 -- Database Schema
 The project includes multiple interrelated tables such as: 
