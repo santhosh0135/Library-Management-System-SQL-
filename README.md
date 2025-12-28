@@ -45,25 +45,41 @@ Relationships are implemented using foreign key constraints, ensuring referentia
 -- Key Features
 
 Relational database design with normalization
+
 Use of PRIMARY KEY and FOREIGN KEY constraints
+
 Structured table creation and data insertion
+
 SQL queries for data retrieval and validation
+
 Error handling through constraint enforcement
 
 -- How to Run the Project
+
 Open MySQL Workbench
+
 Create a new database or use the provided one
+
 Execute the SQL_Project_Code_file.sql
+
 Run SELECT queries to view and analyze data
 
 -- Learning Outcomes
+
 Strong understanding of SQL database design
+
 Hands-on experience with relational constraints
+
 Improved query writing and debugging skills
+
 Real-world application of database concepts
 
 -- Future Enhancements
+
 Add stored procedures and triggers
+
 Implement indexing for performance optimization
+
 Integrate with a front-end application
+
 Add role-based access control
